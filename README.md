@@ -38,6 +38,7 @@ Projeto criado durante a Semana OmniStack 11 - promovido pela Rocketseat. O Obje
  - [ReactJS](#)
  - [NodeJS](#)
  - [Express](#)
+ - [Insomnia](#)
  - [SQLite](#)
 
  ## Licença
