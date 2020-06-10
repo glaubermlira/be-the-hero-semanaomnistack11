@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="be-the-hero" src="https://raw.githubusercontent.com/glaubermlira/Project-Ecoleta-NLW-1-/bf80434176178a332ec1574c77dd04c1ab262830/public/assets/logo.svg" width="400px" />
+    <img alt="be-the-hero" src="https://raw.githubusercontent.com/glaubermlira/be-the-hero-semanaomnistack11/e26a55e3adb3807c5a38baebd3102fac9032aed2/frontend/assets/logo.svg" width="400px" />
 </h1>
 
 
@@ -30,7 +30,8 @@ Projeto criado durante a Semana OmniStack 11 - promovido pela Rocketseat. O Obje
 
 ## Para iniciar a aplicação
 - Execute ```npm install``` para intalar as dependências;
-- Rode ```npm start``` para utilizar a versão web, no seu navegador acesse via **localhost:3000**;
+- Rode ```npm start``` para utilizar a versão web; 
+- No seu navegador, acesse via **localhost:3000**;
 
 ## Tecnologias
 
@@ -46,7 +47,7 @@ Projeto criado durante a Semana OmniStack 11 - promovido pela Rocketseat. O Obje
 Esse projeto está sob a licença [MIT](https://github.com/glaubermlira/be-the-hero-semanaomnistack11/blob/master/LICENSE).
 
 <h1 align="center">
-    <img alt="be-the-hero" src="https://github.com/glaubermlira/Project-Ecoleta-NLW-1-/blob/master/public/assets/front-ecoleta.jpg?raw=true" width="800px" />
+    <img alt="be-the-hero" src="https://github.com/glaubermlira/be-the-hero-semanaomnistack11/blob/master/frontend/assets/front-be-the-hero.jpg?raw=true" width="800px" />
 </h1>
 
 
