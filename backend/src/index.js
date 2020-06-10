@@ -42,5 +42,9 @@ app.listen(3333);
  * Métodos:
  * Driver: SELECT * FROM users => (Abordagem padrão no SQL);
  * Query Builder: table('users').select('*').where() => (Abordagem na forma de Javascript);
+ *
+ * Entidades no back-end: É a representação de uma tabela do banco de dados, algo que será mantido pela aplicação
+ *
+ *
  */
 
